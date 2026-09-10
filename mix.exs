@@ -116,7 +116,7 @@ defmodule Plausible.MixProject do
       {:nanoid, "~> 2.1.0"},
       {:nimble_publisher, "~> 1.1"},
       {:nimble_totp, "~> 1.0"},
-      {:oban, "~> 2.20.1"},
+      {:oban, "~> 2.24.1"},
       {:observer_cli, "~> 1.7"},
       {:opentelemetry, "~> 1.1"},
       {:opentelemetry_api, "~> 1.1"},
