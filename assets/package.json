@@ -17,7 +17,7 @@
     "@heroicons/react": "^2.2.0",
     "@jsonurl/jsonurl": "^1.1.8",
     "@juggle/resize-observer": "^3.3.1",
-    "@popperjs/core": "^2.11.6",
+    "@popperjs/core": "^2.11.8",
     "@tailwindcss/forms": "^0.5.10",
     "@tailwindcss/typography": "^0.5.20",
     "@tanstack/react-query": "^5.51.1",
